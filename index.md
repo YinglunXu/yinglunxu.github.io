@@ -36,7 +36,7 @@ My research interests lie in Machine Learning, including
 # Internship
 
 
-- **Amazon**, Core Machine Learning Sciences team, Applied Science Intern, 2022 Summer
+- **Amazon**, Core Machine Learning Sciences team, Applied Scientist Intern, 2022 Summer
 
 <br>
 <br>
