@@ -30,8 +30,9 @@ My research interests lie in Machine Learning, including
 
 
 
-<br>
-<br>
+<br><br>
+<img src="/fig/pp.jpeg" align = "center">
+<br><br><br>
 
 # Internship
 
