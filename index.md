@@ -31,8 +31,7 @@ My research interests lie in Machine Learning, including
 
 
 <br><br>
-<img src="/fig/pp.jpeg" align = "center">
-<br><br><br>
+
 
 # Internship
 
@@ -108,13 +107,16 @@ Mechanisms**<br>
 
 <br>
 <br>
-
-
-
-
-
-
 Updated: 09/29/2022
+<br>
+<br>
+
+
+
+
+
+
+<img src="/fig/pp.jpeg" align = "center">
 
 <br>
 <br>
