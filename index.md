@@ -35,8 +35,8 @@ My research interests lie in Machine Learning, including
 
 # Internship
 
-
-- **Amazon**, Core Machine Learning Sciences team, Applied Scientist Intern, 2022 Summer
+- **Amazon**, Applied Scientist Intern, 2023 Summer
+- **Amazon**, Applied Scientist Intern, 2022 Summer
 
 <br>
 <br>
@@ -45,6 +45,14 @@ My research interests lie in Machine Learning, including
 # Publications
 
 [[Google Scholar](https://scholar.google.com/citations?user=MaSRh-0AAAAJ&hl=en&oi=ao)]. 
+
+
+### 2023
+
+- **Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Learning**<br>
+  <u>Yinglun Xu</u>,  Gagandeep Singh<br>
+  arXiv:2305.10681<br>
+  [[PDF](https://arxiv.org/abs/2305.10681)] 
 
 
 ### 2022
