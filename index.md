@@ -5,6 +5,7 @@
 I am a second-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
 My research interests lie in Machine Learning, including
 
+- RLHF
 - Safe Reinforcement Learning: Adversarial Attack, Robust Training, and Verification on Deep Reinforcement Learning
 - Multi-arm Bandit Learning Theories
 
