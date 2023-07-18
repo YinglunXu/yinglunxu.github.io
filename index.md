@@ -55,6 +55,13 @@ My research interests lie in Machine Learning, including
   [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)]
 
 
+
+- **On the robustness of epsilon greedy in multi-agent contextual bandit mechanism**<br>
+  <u>Yinglun Xu</u>, Bhuvesh Kumar, Jacob Abernethy<br>
+  arXiv:2307.07675<br>
+  [[PDF](https://arxiv.org/abs/2307.07675)]
+  
+
 - **Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Learning**<br>
   <u>Yinglun Xu</u>,  Gagandeep Singh<br>
   arXiv:2305.10681<br>
@@ -65,11 +72,6 @@ My research interests lie in Machine Learning, including
 
 
 
-
-- **On the robustness of epsilon greedy in multi-agent contextual bandit mechanism**<br>
-  <u>Yinglun Xu</u>, Bhuvesh Kumar, Jacob Abernethy<br>
-  In submission<br>
-  
 - **Single-molecule optofluidic microsensor with interface whispering gallery modes**<br>
   Xiao-Chong Yu, Shui-Jing Tang, Wenjing Liu, <u>Yinglun Xu</u>, Qihuang Gong, You-Ling Chen, Yun-Feng Xiao<br>
   PNAS 2022 (Proceedings of the National Academy of Sciences) <br>
