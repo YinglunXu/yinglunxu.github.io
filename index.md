@@ -2,7 +2,7 @@
 
 # About
 
-I am a second-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
+I am a third-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
 My research interests lie in Machine Learning, including
 
 - Reinforcement learning from human feedback (RLHF), offline preference-based reinforcement learning
