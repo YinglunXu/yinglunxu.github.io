@@ -50,11 +50,16 @@ My research interests lie in Machine Learning, including
 
 ### 2023
 
+
 - **Efficient Reward Poisoning Attacks on Online Deep Reinforcement Learning**<br>
   <u>Yinglun Xu</u>,  Qi Zeng, Gagandeep Singh<br>
   [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)  <br>
   [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)]
 
+- **Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback**<br>
+  <u>Yinglun Xu</u>,  Gagandeep Singh<br>
+  arXiv:2401.00330 <br>
+  [[PDF](https://arxiv.org/abs/2401.00330)] 
 
 
 - **On the robustness of epsilon greedy in multi-agent contextual bandit mechanism**<br>
