@@ -53,7 +53,7 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 
 - **Reward Poisoning Attack Against Offline Reinforcement Learning**<br>
-  <u>Yinglun Xu\*</u>,  Rohan Gumaste\*, Gagandeep Singh<br>
+  <u>Yinglun Xu</u>\*,  Rohan Gumaste\*, Gagandeep Singh<br>
   arXiv: <br>
   [[PDF]()] 
 
