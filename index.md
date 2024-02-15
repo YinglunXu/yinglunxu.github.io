@@ -47,7 +47,15 @@ Please find my CV [here](CV_YinglunXu.pdf).
 # Publications
 
 [[Google Scholar](https://scholar.google.com/citations?user=MaSRh-0AAAAJ&hl=en&oi=ao)]. 
+ \* means equal contribution.
 
+### 2024
+
+
+- **Reward Poisoning Attack Against Offline Reinforcement Learning**<br>
+  <u>Yinglun Xu\*</u>,  Rohan Gumaste\*, Gagandeep Singh<br>
+  arXiv: <br>
+  [[PDF]()] 
 
 ### 2023
 
