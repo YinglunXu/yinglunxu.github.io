@@ -54,8 +54,13 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 - **Reward Poisoning Attack Against Offline Reinforcement Learning**<br>
   <u>Yinglun Xu</u>\*,  Rohan Gumaste\*, Gagandeep Singh<br>
-  arXiv: <br>
-  [[PDF]()] 
+  arXiv:2402.09695 <br>
+  [[PDF](https://arxiv.org/abs/2402.09695)]
+
+- **Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback**<br>
+  <u>Yinglun Xu</u>,  Gagandeep Singh<br>
+  arXiv:2401.00330 <br>
+  [[PDF](https://arxiv.org/abs/2401.00330)] 
 
 ### 2023
 
@@ -65,10 +70,7 @@ Please find my CV [here](CV_YinglunXu.pdf).
   [Transactions on Machine Learning Research (TMLR)](https://www.jmlr.org/tmlr/)  <br>
   [[PDF](https://arxiv.org/abs/2205.14842)] [[Code](https://github.com/YinglunXu/reward_poisoning_attack_drl)]
 
-- **Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback**<br>
-  <u>Yinglun Xu</u>,  Gagandeep Singh<br>
-  arXiv:2401.00330 <br>
-  [[PDF](https://arxiv.org/abs/2401.00330)] 
+
 
 
 - **On the robustness of epsilon greedy in multi-agent contextual bandit mechanism**<br>
