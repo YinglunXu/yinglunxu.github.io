@@ -37,6 +37,7 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 # Internship
 
+- **Google**, Research Intern, 2024 Summer
 - **Amazon**, Applied Scientist Intern, 2023 Summer
 - **Amazon**, Applied Scientist Intern, 2022 Summer
 
