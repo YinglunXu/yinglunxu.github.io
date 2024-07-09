@@ -52,6 +52,10 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 ### 2024
 
+- **Optimal Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning**<br>
+  <u>Yinglun Xu</u>\*,  David Zhu\*, Rohan Gumaste, Gagandeep Singh<br>
+  arXiv:2406.10445 <br>
+  [[PDF](https://arxiv.org/abs/2406.10445)]
 
 - **Reward Poisoning Attack Against Offline Reinforcement Learning**<br>
   <u>Yinglun Xu</u>\*,  Rohan Gumaste\*, Gagandeep Singh<br>
