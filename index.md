@@ -52,18 +52,23 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 ### 2024
 
-- **Optimal Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning**<br>
+- **Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**<br>
+  <u>Yinglun Xu</u>, Zhiwei Wang , Gagandeep Singh<br>
+  arXiv:2410.19705 <br>
+  [[PDF](https://arxiv.org/abs/2410.19705)]
+
+- **Binary Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning**<br>
   <u>Yinglun Xu</u>\*,  David Zhu\*, Rohan Gumaste, Gagandeep Singh<br>
   arXiv:2406.10445 <br>
   [[PDF](https://arxiv.org/abs/2406.10445)]
 
-- **Reward Poisoning Attack Against Offline Reinforcement Learning**<br>
+- **Universal Black-Box Reward Poisoning Attack against Offline Reinforcement Learning**<br>
   <u>Yinglun Xu</u>\*,  Rohan Gumaste\*, Gagandeep Singh<br>
   arXiv:2402.09695 <br>
   [[PDF](https://arxiv.org/abs/2402.09695)]
 
-- **Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback**<br>
-  <u>Yinglun Xu</u>,  Gagandeep Singh<br>
+- **Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions**<br>
+  <u>Yinglun Xu</u>, Tarun Suresh, Rohan Gumaste, David Zhu, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, Qi Zeng, Chao Zhang,  Gagandeep Singh<br>
   arXiv:2401.00330 <br>
   [[PDF](https://arxiv.org/abs/2401.00330)] 
 
