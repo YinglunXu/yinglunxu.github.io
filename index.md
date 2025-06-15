@@ -2,12 +2,12 @@
 
 # About
 
-I am a third-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
+I am a final-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
 My research interests lie in Machine Learning, including
 
 - Reinforcement learning from human feedback (RLHF), offline preference-based reinforcement learning
 - Trustworthy Reinforcement Learning: Adversarial Attack, Provably Efficient Exploration, Provably Robust Exploration, and Verification on Deep Reinforcement Learning (DRL)
-- Multi-arm Bandit Learning Theories (MAB)
+- Multi-Arm Bandit Learning Theories (MAB)
 
 Please find my CV [here](CV_YinglunXu.pdf).
 
@@ -37,6 +37,7 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 # Internship
 
+- **Meta**, Machine Learning Engineer Intern, 2025 Summer
 - **Google**, Research Intern, 2024 Summer
 - **Amazon**, Applied Scientist Intern, 2023 Summer
 - **Amazon**, Applied Scientist Intern, 2022 Summer
@@ -49,6 +50,18 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 [[Google Scholar](https://scholar.google.com/citations?user=MaSRh-0AAAAJ&hl=en&oi=ao)]. 
  \* means equal contribution.
+
+### 2025
+
+- **Learning a Pessimistic Reward Model in RLHF**<br>
+  <u>Yinglun Xu</u>, Hangoo Kang, Tarun Suresh, Yuxuan Wan, Gagandeep Singh <br>
+  arXiv: 2505.20556<br>
+  [[PDF](https://arxiv.org/abs/2505.20556)]
+
+- **Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**<br>
+  Anjiang Wei, Tarun Suresh, Huanmi Tan, <u>Yinglun Xu</u>, Gagandeep Singh, Ke Wang, Alex Aiken<br>
+  arXiv: 2505.11480 <br>
+  [[PDF](https://arxiv.org/abs/2505.11480)]
 
 ### 2024
 
