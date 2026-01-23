@@ -2,21 +2,21 @@
 
 # About
 
-I am a final-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/). 
+I am a final-year Ph.D. student in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/) and a Research Scientist at Google DeepMind.
+
 My research interests lie in Machine Learning, including
 
 - Reinforcement learning from human feedback (RLHF), offline preference-based reinforcement learning
 - Trustworthy Reinforcement Learning: Adversarial Attack, Provably Efficient Exploration, Provably Robust Exploration, and Verification on Deep Reinforcement Learning (DRL)
 - Multi-Arm Bandit Learning Theories (MAB)
 
-Please find my CV [here](CV_YinglunXu.pdf).
 
 <br>
  
 # Education
 
 ### University of Illinois Urbana-Champaign
-  - PhD in Computer Science, 2021 - present
+  - PhD in Computer Science, 2021 - 2026
   - Advisor: Prof. [Singh Gagandeep](https://ggndpsngh.github.io/)
 
 
@@ -35,8 +35,9 @@ Please find my CV [here](CV_YinglunXu.pdf).
 <br><br>
 
 
-# Internship
+# Work Experience
 
+- **Google DeepMind**, Research Scientist, 12/2025 - present
 - **Meta**, Machine Learning Engineer Intern, 2025 Summer
 - **Google**, Research Intern, 2024 Summer
 - **Amazon**, Applied Scientist Intern, 2023 Summer
@@ -50,6 +51,14 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 [[Google Scholar](https://scholar.google.com/citations?user=MaSRh-0AAAAJ&hl=en&oi=ao)]. 
  \* means equal contribution.
+
+### 2026
+
+- **Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**<br>
+  <u>Yinglun Xu</u>, Zhiwei Wang , Gagandeep Singh<br>
+  AISTATS 2026 <br>
+  [[PDF](https://arxiv.org/abs/2410.19705)]
+
 
 ### 2025
 
@@ -65,10 +74,6 @@ Please find my CV [here](CV_YinglunXu.pdf).
 
 ### 2024
 
-- **Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**<br>
-  <u>Yinglun Xu</u>, Zhiwei Wang , Gagandeep Singh<br>
-  arXiv:2410.19705 <br>
-  [[PDF](https://arxiv.org/abs/2410.19705)]
 
 - **Binary Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning**<br>
   <u>Yinglun Xu</u>\*,  David Zhu\*, Rohan Gumaste, Gagandeep Singh<br>
