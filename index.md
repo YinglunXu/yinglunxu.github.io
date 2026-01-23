@@ -37,7 +37,7 @@ My research interests lie in Machine Learning, including
 
 # Work Experience
 
-- **Google DeepMind**, Research Scientist, 12/2025 - present
+- **Google DeepMind**, Research Scientist, 2025 - present
 - **Meta**, Machine Learning Engineer Intern, 2025 Summer
 - **Google**, Research Intern, 2024 Summer
 - **Amazon**, Applied Scientist Intern, 2023 Summer
