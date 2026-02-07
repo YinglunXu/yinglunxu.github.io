@@ -54,6 +54,13 @@ My research interests lie in Machine Learning, including
 
 ### 2026
 
+
+- **Latent Adversarial Regularization for Offline Preference Optimization**<br>
+  Enyi Jiang, Yibo Jacky Zhang, <u>Yinglun Xu</u>, Andreas Haupt, Nancy Amato, Sanmi Koyejo<br>
+  arXiv:2601.22083<br>
+  [[PDF](https://arxiv.org/abs/2601.22083)]
+
+
 - **Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**<br>
   <u>Yinglun Xu</u>, Zhiwei Wang , Gagandeep Singh<br>
   AISTATS 2026 <br>
