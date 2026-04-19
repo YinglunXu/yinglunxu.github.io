@@ -2,12 +2,7 @@
 
 # About
 
-I am a Research Scientist at Google DeepMind. My research interests lie in Machine Learning, including
-
-- Reinforcement learning from human feedback (RLHF), offline preference-based reinforcement learning
-- Trustworthy Reinforcement Learning: Adversarial Attack, Provably Efficient Exploration, Provably Robust Exploration, and Verification on Deep Reinforcement Learning (DRL)
-- Multi-Arm Bandit Learning Theories (MAB)
-
+I am a Research Scientist at Google DeepMind. 
 
 <br>
  
